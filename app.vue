@@ -1,0 +1,9 @@
+<template>
+  <fieldsWitch
+    :value="true"
+    sizes="large"
+    :disabled="true"
+    :activeText="'On'"
+    :inactiveText="'OFF'"
+  />
+</template>
